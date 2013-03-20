@@ -1,10 +1,4 @@
-base_uri_string: http://eve.fun-33.com
-pgsql_database: toozla
-pgsql_host: localhost
-pgsql_port: 5432
-pgsql_user: t00zla
-pgsql_password: sn00zla
-pgsql_schema: toozla
+base_uri_string: http://localhost
 template_path: /var/www/dev/eve-helloworld/template
 template_compile_path: /var/www/dev/eve-helloworld/tmp/template
 email_from_string: some@exmaple.com
